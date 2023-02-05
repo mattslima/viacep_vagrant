@@ -2,7 +2,7 @@
 Utilizando o Vagrant para subir uma aplicação do ViaCep com Ngnix
 
 
-Primeiramente vamos instalar o Vagrant nna sua máquina e dependendo da sua distribuição a forma é diferente. Segue o link da documentação oficial:
+Primeiramente vamos instalar o Vagrant na sua máquina e dependendo da sua distribuição a forma é diferente. Segue o link da documentação oficial:
 https://www.vagrantup.com/downloads
 
 Próximo passo, após o Vagrant instalado, abra o terminal da sua distro (no caso eu utilizo o Fedora) e digite o comando "vagrant init ubuntu/focal64"
